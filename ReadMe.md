@@ -63,15 +63,14 @@ I'm a versatile developer currently working on a Prescription Reading mobile app
   <!-- Column 1: GitHub Stats -->
   <div style="flex: 1;">
      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nyek00359&theme=dark&hide_border=false" alt="GitHub Streak Stats" style="flex: 1; max-width: 100%;"/>
-    
   </div>
 </div>
 <div style="display: flex; justify-content: space-evenly; gap: 20px;">
     <div style="flex: 1;">
   <!-- GitHub Streak Stats -->
- <img src="https://github-readme-stats.vercel.app/api?username=Nyek00359&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="width: 55%;"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=Nyek00359&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="width: 50%;"/>
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyek00359&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="flex: 1; max-width: 60%;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyek00359&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="flex: 1; max-width: 50%;"/>
     </div>
 </div>
 
