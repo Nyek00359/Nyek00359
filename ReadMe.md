@@ -87,6 +87,7 @@
 
 
 
+
 <div style="display: flex; justify-content: space-between; gap: 20px; flex-wrap: wrap;">
   <!-- Top Contributed Repo Card -->
   <div style="flex: 1; max-width: 45%; padding: 20px; background-color: #2d2d2d; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
