@@ -81,13 +81,26 @@
 
 </div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<div style="display: flex; justify-content: space-between; gap: 20px; flex-wrap: wrap;">
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Nyek00359&limit=5&theme=apprentice&combine_all_yearly_contributions=true)
+  <!-- Random Dev Quote Card -->
+  <div style="flex: 1; max-width: 45%; padding: 20px; background-color: #2d2d2d; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+    <h3 style="color: white; text-align: center;">✍️ Random Dev Quote</h3>
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" style="width: 100%; border-radius: 8px;"/>
+  </div>
 
-<!-- https://gprm.itsvg.in/ -->
+  <!-- Top Contributed Repo Card -->
+  <div style="flex: 1; max-width: 45%; padding: 20px; background-color: #2d2d2d; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+    <h3 style="color: white; text-align: center;">🔝 Top Contributed Repo</h3>
+    <img src="https://github-contributor-stats.vercel.app/api?username=Nyek00359&limit=5&theme=apprentice&combine_all_yearly_contributions=true" alt="Top Contributed Repo" style="width: 100%; border-radius: 8px;"/>
+  </div>
 
-[![](https://visitcount.itsvg.in/api?id=Nyek00359&icon=0&color=6)](https://visitcount.itsvg.in)
 </div>
+
+<!-- Visit Count -->
+<div style="display: flex; justify-content: center; margin-top: 20px;">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=Nyek00359&icon=0&color=6" alt="Visitor Count"/>
+  </a>
+</div>
+
