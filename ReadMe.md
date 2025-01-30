@@ -91,7 +91,7 @@
  <!-- Random Dev Quote Card -->
   <div style="flex: 1; max-width: 45%; padding: 20px; background-color: #2d2d2d; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
     <h3 style="color: white; text-align: center;">✍️ Random Dev Quote</h3>
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" style="width: 100%; border-radius: 8px;"/>
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" style=" border-radius: 8px;"/>
   </div>
 </div>
 
