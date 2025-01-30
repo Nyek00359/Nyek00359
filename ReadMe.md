@@ -77,7 +77,7 @@
 
   <!-- Column 2: GitHub Streak Stats and Top Languages -->
   <div style="flex: 1;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nyek00359&theme=dark&hide_border=false" alt="GitHub Streak Stats" style="width: 100%;"/>
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=&theme=dark&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak Stats" style="width: 100%;"/>
     <br />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyek00359&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="width: 100%;"/>
   </div>
