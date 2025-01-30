@@ -1,9 +1,9 @@
-<div align="center">
+
 <div style="display: flex; justify-content: space-between; gap: 20px;">
 # 💫 About Me:
 I'm a versatile developer currently working on a Prescription Reading mobile application, with a background that includes developing an Ordering system and experience in digital arts. I’m skilled in various languages, including Java, Python, SQL, PHP, C++, C#, and JavaScript, and I can quickly adapt to new languages as needed. In my free time, I enjoy gaming and reading books.
 </div>
-
+<div align="center">
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Terry.Kulit) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kaize.lu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Glenn%20Christian%20Terrible) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@kitsio) 
 
