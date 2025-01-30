@@ -46,7 +46,7 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://giphy.com/gifs/justin-raccoon-pedro-tHIRLHtNwxpjIFqPdV"  />
 
 ###
 
