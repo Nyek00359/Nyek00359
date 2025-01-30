@@ -17,7 +17,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@kitsio) 
 
 # 💻 Tech Stack:
-<img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white" alt="C Logo" style="width: 100px; height: 100px;"/>
+<img src="https://img.shields.io/badge/-C-%2300599C.svg?style=flat-square&logo=c&logoColor=white" alt="C Logo" style="width: 100px; height: 100px;"/>
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
