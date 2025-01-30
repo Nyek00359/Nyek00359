@@ -55,9 +55,7 @@ I'm a versatile developer currently working on a Prescription Reading mobile app
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139)
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=flat-square&logo=godot-engine)
 ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=flat-square&logo=epicgames&logoColor=white)
-<div style="width: 100px; height: 100px; display: flex; justify-content: center; align-items: center; border: 1px solid #ccc; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); background-color: #fff;">
-  <img src="https://img.shields.io/badge/AMD-%23000000.svg?style=flat-square&logo=amd&logoColor=white" alt="AMD" style="max-width: 80%; max-height: 80%;"/>
-</div>
+![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=flat-square&logo=amd&logoColor=white)
 
 
 # 📊 GitHub Stats:
