@@ -46,7 +46,7 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="[https://giphy.com/gifs/justin-raccoon-pedro-tHIRLHtNwxpjIFqPdV](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTF2enN0anR1YXlkend2c2NyODJ4dW81ZnoyM2Fxemh2cmh5dW5hcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tHIRLHtNwxpjIFqPdV/giphy.gif)"  />
+<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTF2enN0anR1YXlkend2c2NyODJ4dW81ZnoyM2Fxemh2cmh5dW5hcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tHIRLHtNwxpjIFqPdV/giphy.gif"  />
 
 ###
 
