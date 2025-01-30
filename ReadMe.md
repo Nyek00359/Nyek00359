@@ -1,7 +1,13 @@
 <div align="center">
-<div style="display: flex; justify-content: space-between; gap: 20px;">
-# 💫 About Me:
-I'm a versatile developer currently working on a Prescription Reading mobile application, with a background that includes developing an Ordering system and experience in digital arts. I’m skilled in various languages, including Java, Python, SQL, PHP, C++, C#, and JavaScript, and I can quickly adapt to new languages as needed. In my free time, I enjoy gaming and reading books.
+<div style="display: flex; justify-content: space-between; gap: 20px; text-align: justify; flex-wrap: wrap;">
+
+  <div style="flex: 1; padding: 10px;">
+    <h2>💫 About Me:</h2>
+    <p>
+      I'm a versatile developer currently working on a Prescription Reading mobile application, with a background that includes developing an Ordering system and experience in digital arts. I’m skilled in various languages, including Java, Python, SQL, PHP, C++, C#, and JavaScript, and I can quickly adapt to new languages as needed. In my free time, I enjoy gaming and reading books.
+    </p>
+  </div>
+
 </div>
 
 ## 🌐 Socials:
