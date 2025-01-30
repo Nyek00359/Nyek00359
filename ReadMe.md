@@ -20,6 +20,6 @@ I'm a versatile developer currently working on a Prescription Reading mobile app
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Nyek00359&limit=5&theme=apprentice&combine_all_yearly_contributions=true)
 
----https://gprm.itsvg.in/
+<--!https://gprm.itsvg.in/-->
 [![](https://visitcount.itsvg.in/api?id=Nyek00359&icon=0&color=6)](https://visitcount.itsvg.in)
 </div>
