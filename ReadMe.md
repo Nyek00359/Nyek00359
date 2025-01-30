@@ -1,3 +1,4 @@
+<div align="center">
 # 💫 About Me:
 I'm a versatile developer currently working on a Prescription Reading mobile application, with a background that includes developing an Ordering system and experience in digital arts. I’m skilled in various languages, including Java, Python, SQL, PHP, C++, C#, and JavaScript, and I can quickly adapt to new languages as needed. In my free time, I enjoy gaming and reading books.
 
@@ -20,5 +21,5 @@ I'm a versatile developer currently working on a Prescription Reading mobile app
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Nyek00359&icon=0&color=6)](https://visitcount.itsvg.in)
-
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
