@@ -77,10 +77,10 @@
 </div>
 <div style="display: flex; justify-content: space-evenly; gap: 20px;">
   <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nyek00359&theme=dark&hide_border=false" alt="GitHub Streak Stats" style="flex: 1; max-width: 50vw;width:49vw;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nyek00359&theme=dark&hide_border=false" alt="GitHub Streak Stats" style="flex: 1; max-width: 49vw;width:40vw;"/>
 
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyek00359&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="flex: 1; max-width: 50vw; width:49vw;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyek00359&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="flex: 1; max-width: 49vw; width:40vw;"/>
 
 </div>
 
