@@ -97,10 +97,5 @@
 
 </div>
 
-<!-- Visit Count -->
-<div style="display: flex; justify-content: center; margin-top: 20px;">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Nyek00359&icon=0&color=6" alt="Visitor Count"/>
-  </a>
-</div>
+[![](https://visitcount.itsvg.in/api?id=Nyek00359&icon=0&color=6)](https://visitcount.itsvg.in)
 
