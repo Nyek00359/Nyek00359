@@ -1,4 +1,4 @@
-<h4 align="left">I'm a versatile developer currently working on a Prescription Reading mobile application, with a background that includes developing an Ordering system and experience in digital arts. I’m skilled in various languages, including Java, Python, SQL, PHP, C++, C#, and JavaScript, and I can quickly adapt to new languages as needed. In my free time, I enjoy gaming and reading books.</h4>
+<h4 align="left">I'm a versatile developer with a background that includes developing an Ordering system and experience in digital arts. I’m skilled in various languages, including Java, Python, SQL, PHP, C++, C#, and JavaScript, and I can quickly adapt to new languages as needed. In my free time, I enjoy gaming and reading books.</h4>
 
 ###
 
